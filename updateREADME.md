@@ -1,7 +1,4 @@
-# IDS-implementation
-## Here's a detailed and engaging README file for an IoT-related project:
 
----
 
 # 🌐 IoT System for Smart Monitoring
 
